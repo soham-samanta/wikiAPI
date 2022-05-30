@@ -1,1 +1,1 @@
-# wikiAPI
+# Wikipedia API
